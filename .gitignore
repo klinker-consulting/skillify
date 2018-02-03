@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-# Created by https://www.gitignore.io/api/vapor
 
 ### Vapor ###
 Config/secrets
@@ -13,8 +10,6 @@ xcuserdata
 DerivedData/
 .DS_Store
 
-# End of https://www.gitignore.io/api/vapor
-=======
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
@@ -82,4 +77,3 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
->>>>>>> aa4da880b6e3e5a2cf8dcf9211a87ecff82cb797
